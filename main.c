@@ -9,5 +9,6 @@ int addition(int a, int b)
 int main()
 {
     printf("Normalement ca doit donner %d\n", addition(1,4));
+
     return 0;
 }
